@@ -1,5 +1,5 @@
-#!/usr/bin/bash
-python3 $PYFILE
+#!/usr/bin/python3
+$PYFILE
 
 
 
