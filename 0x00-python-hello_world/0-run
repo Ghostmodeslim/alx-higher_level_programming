@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 #!/usr/bin/bash
 python $PYFILE
 
 
 
+=======
+#!/bin/bash
+python3 $PYFILE
+>>>>>>> 48d463bb6c10428ee252e16ad3be134da7494a4c
