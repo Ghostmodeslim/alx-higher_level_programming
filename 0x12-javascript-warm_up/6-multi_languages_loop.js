@@ -1,5 +1,4 @@
 #!/usr/bin/node
-let txt = ['C is fun', 'Python is cool', 'JavaScript is amazing'];
-for (let i = 0; i < txt.length; i++) {
-    console.log(txt[i]);
+for (const line of ['C is fun', 'Python is cool', 'JavaScript is amazing']) {
+    console.log(line);
 }
